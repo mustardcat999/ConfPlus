@@ -1,0 +1,22 @@
+.bigContainer{
+    display: flex;
+    flex-direction: row;
+}
+.container{
+    display:flex;
+    flex-wrap: wrap;
+    margin-top: 100px ;
+
+}
+
+.formCfp{
+    
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+
+
+
